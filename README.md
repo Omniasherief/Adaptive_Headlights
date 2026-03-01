@@ -1,7 +1,7 @@
 
 ---
 
-# Adaptive Headlights 💡
+# Adaptive Headlights System 💡
 
 Night driving presents unique challenges: restricted visibility, sudden glare from oncoming vehicles, and the constant need to balance illumination with safety. Although nighttime travel accounts for only 25% of all driving time, it tragically contributes to 50% of traffic fatalities.¹ In Bhopal, India alone, high-beam glare caused 1,470 accidents in 2024.² According to the National Safety Council, the risk of traffic deaths at night is three times greater than during daylight hours.³
 
